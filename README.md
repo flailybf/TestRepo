@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 # HelloWorld
 
-Author: Tobias Bernard
-LBS Eibiswald 2a APC 
-
 Das einfaste Programm was es überhaupt gibt, mit der Ausgabe
 Hello World<br>
 
