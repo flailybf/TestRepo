@@ -4,8 +4,8 @@
 Author: Tobias Bernard
 LBS Eibiswald 2a APC 
 
-Nur eine Demo Anwendung...<br>
-Hier könnte die Anwendung erklärt werden...
+Das einfaste Programm was es überhaupt gibt, mit der Ausgabe
+Hello World<br>
 
 ## Installation
 
@@ -29,8 +29,8 @@ Technologien im Einsatz:
 
 ## Screenshots
 
-[![Screen Shot][product-screenshot]](![image](https://github.com/flailybf/TestRepo/assets/145024905/c9a2d1c5-9a40-4bbe-a7e5-f248b57ffc05)
-)
+[![Screen Shot][product-screenshot]](https://example.com)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
