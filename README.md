@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 # HelloWorld
-Author: Gerhard Jarz <br>
-LBS Eibiswald | 2aAPC
 
 Nur eine Demo Anwendung...<br>
 Hier könnte die Anwendung erklärt werden...
