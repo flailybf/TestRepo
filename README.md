@@ -43,4 +43,4 @@ Technologien im Einsatz:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [java-url]: https://www.java.com/de/
-[product-screenshot]: images/main.png
+[product-screenshot]: src/Screenshot 2023-09-14 153819.png
